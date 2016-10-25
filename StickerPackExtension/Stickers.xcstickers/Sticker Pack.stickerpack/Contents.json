@@ -1,4 +1,33 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Image1.sticker"
+    },
+    {
+      "filename" : "Image2.sticker"
+    },
+    {
+      "filename" : "Image3.sticker"
+    },
+    {
+      "filename" : "Image4.sticker"
+    },
+    {
+      "filename" : "Image5.sticker"
+    },
+    {
+      "filename" : "Image6.sticker"
+    },
+    {
+      "filename" : "Image7.sticker"
+    },
+    {
+      "filename" : "Image8.sticker"
+    },
+    {
+      "filename" : "Image9.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
